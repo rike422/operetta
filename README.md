@@ -1,3 +1,7 @@
+# Operetta development moved
+
+Operetta development has moved to [operetta-js](https://github.com/rike422/operetta-js)
+
 # Operetta [![Build Status](https://travis-ci.org/rike422/operetta.svg?branch=master)](https://travis-ci.org/rike422/operetta) [![Coverage Status](https://coveralls.io/repos/github/rike422/operetta/badge.svg?branch=master)](https://coveralls.io/github/rike422/operetta?branch=master) [![Code Climate](https://codeclimate.com/github/rike422/operetta/badges/gpa.svg)](https://codeclimate.com/github/rike422/operetta) [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 * Documentation: http://operational-transformation.github.io/
